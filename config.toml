@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Widget Analytics Ping Testing"
+baseURL = "https:\/\/www.wanlyticping.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758397"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "wanlyticping.com"
